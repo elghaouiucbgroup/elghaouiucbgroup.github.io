@@ -2,3 +2,41 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+ul.team {
+  overflow: hidden;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+ul.team a {
+  float: left;
+  color: #434d61;
+  text-align: center;
+  clear: none;
+  margin-right: 0;
+  width: 20%;
+    margin-left: 30px;
+}
+
+ul.team a img {
+  border-radius: 1000px;
+  width: 100%;
+  max-width: 130px;
+}
+
+ul.team h3 {
+  margin-bottom: 0;
+  font-weight: 400;
+  text-align: center;
+  display: block;
+      font-size: 0.9em;
+}
+
+ul.team h4{
+  padding: 0 20px;
+  margin: 0;
+  font-size: 0.9em;
+}
