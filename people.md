@@ -35,7 +35,7 @@ layout: default
                         <li>
 
 
-                                <img src="/assets/img/homer.jpeg" alt="Geoffrey Negiar">
+                                <img src="/assets/img/negiar.PNG" alt="Geoffrey Negiar">
 
                             <h3 class="name">Geoffrey Negiar</h3>
                         </li>
