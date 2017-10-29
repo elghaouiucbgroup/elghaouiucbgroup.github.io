@@ -21,7 +21,7 @@ Parallel Method for Composite Optimization](https://arxiv.org/pdf/1707.06468.pdf
 ---
 
 
-**[On the Consistency of Ordinal Regression Methods](http://jmlr.csail.mit.edu/papers/volume18/15-495/15-495.pdf)**, [Fabian Pedregosa](http://fa.bianp.net), [Francis Bach](http://www.di.ens.fr/~fbach/), and [Alexandre Gramfort](http://alexandre.gramfort.net), <i>Journal of Machine Learning Research</i>, 2017. [JMLR](http://jmlr.csail.mit.edu/papers/v18/15-495.html), <a href="https://arxiv.org/abs/1408.2327">ArXiv</a>, [Blog post](/blog/2015/on-the-consistency-of-ordinal-regression-methods/).
+**[On the Consistency of Ordinal Regression Methods](http://jmlr.csail.mit.edu/papers/volume18/15-495/15-495.pdf)**, [Fabian Pedregosa](http://fa.bianp.net), [Francis Bach](http://www.di.ens.fr/~fbach/), and [Alexandre Gramfort](http://alexandre.gramfort.net), <i>Journal of Machine Learning Research</i>, 2017. [JMLR](http://jmlr.csail.mit.edu/papers/v18/15-495.html).
 
 ---
 
